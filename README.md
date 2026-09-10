@@ -1,33 +1,38 @@
-# 🧠 AI Lifestyle & Wellness Intelligence
+# 😴 SleepWise AI — Lifestyle-Based Sleep Prediction
 
-An explainable machine learning application for lifestyle-based
-obesity profile prediction, model explainability, What-If simulation,
-and unsupervised lifestyle discovery.
+> An end-to-end Machine Learning application that predicts sleep quality from lifestyle and physiological factors and presents the prediction through an interactive Streamlit dashboard.
 
 ## 🚧 Project Status
 
-Currently under development.
+**Under Development**
 
-## 🎯 Objective
+This project is currently being developed as part of an AI Engineer portfolio, covering the complete machine learning workflow from data exploration and model development to an interactive application.
 
-Build an end-to-end machine learning application that demonstrates:
+## 🎯 Project Objective
 
-- Data analysis and preprocessing
-- Multiclass classification
-- Decision Trees
-- Random Forest
-- Gradient Boosting
-- XGBoost
-- Model evaluation and hyperparameter tuning
-- SHAP explainability
-- K-Means clustering
-- PCA dimensionality reduction
-- What-If simulation
-- Streamlit application development
-- Git/GitHub workflow
-- Cloud deployment
+The goal of SleepWise AI is to explore how lifestyle and physiological factors can be used to build a machine learning model for sleep quality prediction.
+
+The project will include:
+
+* Data analysis and preprocessing
+* Machine learning model development
+* Model evaluation and comparison
+* Explainable AI
+* Interactive Streamlit dashboard
+* Model deployment
+
+## 🛠️ Technologies
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* XGBoost
+* SHAP
+* Plotly
+* Streamlit
+* Jupyter Notebook
 
 ## ⚠️ Disclaimer
 
-This project is for educational and machine learning demonstration
-purposes only. It is not a medical diagnostic or treatment system.
+This project is for educational and machine learning demonstration purposes only. It is not a medical diagnostic or treatment system.
